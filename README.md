@@ -1,40 +1,58 @@
-## Hey there, Daiwd here!
+## Hey there, I'm Dawid! 👋  
 
-### 👨🏻‍💻 &nbsp;About Me
-
-- 🤔 &nbsp; Beginer, wanted to become data analyst
-- 🌱 &nbsp; Learning more about automation and data houses.
-- ⚡️ &nbsp; Intrested in finance & programing.
-
----
-
-### 🛠 &nbsp;Languages and Tools
-
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)   
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=Soundcharts) 
-  ![Excel](https://img.shields.io/badge/-Excel-35467?style=flat&logo=libreofficecalc) 
-  ![DataWarehouses](https://img.shields.io/badge/-DataWarehouses-blue?style=flat&logo=databricks) 
+### 👨🏻‍💻 &nbsp;About Me  
+- 📊 &nbsp; Beginner aspiring to become a **Data Analyst / Business Intelligence Specialist**  
+- 🌱 &nbsp; Currently learning **data automation**, **data warehousing**, and **Python for analytics**  
+- ⚡️ &nbsp; Passionate about **finance**, **data**, and **problem-solving through automation**  
+- 🎯 &nbsp; Looking for opportunities to grow in the field of **Business Intelligence and Data Analytics**  
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+### 🛠️ &nbsp;Languages and Tools  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![Data Warehousing](https://img.shields.io/badge/-Data%20Warehousing-007ACC?style=flat&logo=databricks)
+![ETL](https://img.shields.io/badge/-ETL%20Processes-333333?style=flat&logo=apacheairflow)
+
+---
+
+### 📊 &nbsp;Projects  
+- [**Sales Dashboard (Excel / Power BI)**](#) — Interactive dashboard analyzing sales and profitability metrics  
+- [**ETL Pipeline (Python + SQL)**](#) — Simple pipeline extracting and loading data from multiple sources  
+- [**Data Cleaning Scripts**](#) — Practical examples of data preprocessing and validation in Python  
+
+*(links can be updated once repositories are public)*  
+
+---
+
+### ⚙️ &nbsp;GitHub Analytics  
 
 <p align="center">
 <a href="https://github.com/PychDawid">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PychDawid&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PychDawid&layout=compact&langs_count=8&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PychDawid&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PychDawid&layout=compact&langs_count=8&theme=default"/>
 </a>
 </p>
 
 ---
 
-### 🤝🏻 &nbsp;Connect with Me 
+### 🤝🏻 &nbsp;Connect with Me  
 
 <p align="center">
-<a href="www.linkedin.com/in/dawid-pych-141991278"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-DawidPych-blue"></a>
+<a href="https://www.linkedin.com/in/dawid-pych-141991278/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dawid%20Pych-blue?logo=linkedin">
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Data is a story waiting to be told — I’m learning how to tell it.”</i>
 </p>
