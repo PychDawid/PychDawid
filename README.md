@@ -24,11 +24,7 @@
 ---
 
 ### 📊 &nbsp;Projects  
-- [**Sales Dashboard (Excel / Power BI)**](#) — Interactive dashboard analyzing sales and profitability metrics  
-- [**ETL Pipeline (Python + SQL)**](#) — Simple pipeline extracting and loading data from multiple sources  
-- [**Data Cleaning Scripts**](#) — Practical examples of data preprocessing and validation in Python  
 
-*(links can be updated once repositories are public)*  
 
 ---
 
